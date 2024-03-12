@@ -1,0 +1,1 @@
+Para acceder a este código, se puede puede descargar toda la carpeta, y entrando desde el archivo index.html ejecutando tu navegador de preferencia, podrás ver el ejemplo de página de Starbucks que hice para un curso de Programación Full Stack.
